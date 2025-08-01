@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    text-align: center;
+    margin: 180px 0px;
+}
+
+div {
+    margin-top: 20px;
+
+}
+
+
+/* h1 {
+    margin-bottom: 20px;
+
+} */
+
+
+button {
+    padding: 10px;
+}
+
+
+section {
+    background-color: rgb(221, 240, 240) ;
+    margin: 0px 500px;
+    padding: 50px 0px;
+
+}
+
+
+/* div {
+    background-color: rgb(221, 240, 240) ;
+
+} */

@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+li {
+    float: left;
+    text-align: right;
+}
+
+
+nav li {
+    display: inline;
+    padding: 10px;
+    background-color: #bbbaba;
+    width: 50px;
+    padding: 16px 15px ;
+}
+
+
+nav li:hover:not(.active) {
+    background-color: white;  
+}
+
+
+.active {
+    background-color: #04AA6D; 
+}
+
+
+ul{
+    overflow: hidden;
+    background-color: #bbbaba;
+    position: fixed;
+    width: 100%;
+}
+
+
+h1 {
+    background-image: url(../img/Gemini_Generated_Image_8qj4e68qj4e68qj4.jpg);
+    padding: 24%;
+    color: black;
+    margin-bottom: 50px;
+}
+
+
+.ball {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.div {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    width: 100%;
+    gap: 20px;
+}
+
+
+/* h2 {
+    margin-bottom: 20px;
+} */
+
+
+button {
+    padding: 10px;
+    margin-top: 20px;
+}
